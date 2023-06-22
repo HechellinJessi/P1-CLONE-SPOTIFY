@@ -14,7 +14,7 @@ Antes de começar, verifique se o seu ambiente de desenvolvimento atende aos seg
 
 Node.js (versão 12 ou superior)
 NPM (gerenciador de pacotes do Node.js)
-Expo CLI (instalado globalmente)
+Expo (instalado globalmente)
 Siga as etapas abaixo para instalar e executar o projeto em seu ambiente local:
 
 1-Clone este repositório para o seu computador:
